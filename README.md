@@ -3,7 +3,7 @@
 Welcome to my personal, AI-powered web developer portfolio repository! 
 
 ## 🚀 Live Demo
-You can view the live portfolio here: [Hemanth Yadav Portfolio](https://github.com/Hemanth12345832/my-portfolio) *(Replace this with your Netlify/Vercel link when deployed)*
+You can view the live portfolio here: [Hemanth Yadav Portfolio](https://hemanth-portfolio-1.netlify.app/)
 
 ## 💡 About
 This is a modern, single-page portfolio designed to showcase my skills, projects, and passion for building AI-powered web applications. The website features a dynamic premium design with smooth micro-animations, glassmorphism UI elements, responsive layouts, and spring-physics inspired transitions.
